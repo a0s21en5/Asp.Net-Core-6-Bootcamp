@@ -1,26 +1,24 @@
 # Introduction
 
-- Nowadays, everyone is talking about open source and cross-platform development.
+- Nowadays, everyone is talking about open-source and cross-platform development.
 - Microsoft has always been known for its Windows-based products, but now we are in a new age of development.
 - For this, a new revolutionary product has come into the market, which is Microsoft .NET Core.
 - .NET Core is a free open-source and cross-platform framework, created for building modern cloud-based applications, and every .NET developer feels proud of it.
 - Now, there are no boundaries for the platform. Every .NET developer can say, "Yes, I am platform-independent; I am using open source."
 - In the revolution of software development, Microsoft launched its first .NET framework in the year 2000 with its first version, .NET Framework 1.0.
-- This framework plays a major role in the field of software development. People love Microsoft technology products because these products are easy to use and easy to learn.
+- This framework plays a major role in the field of software development. People love Microsoft technology products because these products are easy to use and learn.
 - In the year 2006, Microsoft came up with a new revolution, Microsoft .NET Core 1.0. People always love ASP.NET because it works over the World Wide Web.
 - ASP.NET Core is a new open-source, cross-platform framework to create modern web-based cloud-based systems, which means now you are not only working for Windows; you can run on Linux, Mac, i.e., wherever you want.
 
-
 # Open Source Means
 
-- In general, open source refers to any program whose source code is made available for use or modification as users or other developers see fit. Open source software is usually developed as a public collaboration and made freely available.
+- In general, open source refers to any program whose source code is made available for use or modification as users or other developers see fit. Open-source software is usually developed as a public collaboration and made freely available.
 - The software being distributed must be redistributed to anyone else without any restrictions.
-- The source code must be made available so that the receiving party will be able to improve or modify it.
-
+- The source code must be made available so that the receiving party can improve or modify it.
 
 # ASP.NET Core Features
 
-- Cross-platform and open source: ASP.NET Core now runs your app over Linux, Windows, Mac, i.e., wherever you want.
+- Cross-platform and open source: ASP.NET Core now runs your app over Linux, Windows, and Mac, i.e., wherever you want.
 - Fast Development: Enables fast work over the browsers.
-- Editor choice: You can work not only in Visual Studio but also choose Visual Studio Code.
+- Editor choice: You can work not only in Visual Studio but also in Visual Studio Code.
 - Based on Model-View-Controller (MVC) architecture.

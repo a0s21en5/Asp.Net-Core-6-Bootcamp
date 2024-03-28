@@ -31,3 +31,11 @@
 - It has been completely rewritten from scratch and was initially launched as ASP.NET 5 but then was renamed to ASP.NET Core 1.0.
 - ASP.NET Core is a cross-platform, high-performance, open-source framework for building modern, cloud-based, internet-connected applications.
 - It consists of modular components with minimal overhead, allowing you to retain flexibility while constructing your solutions.
+
+
+# Introduction
+
+- Before ASP.NET Core, Microsoft already had two other similar frameworks, known as ASP.NET Web Forms (popularly known as just ASP.NET) and ASP.NET MVC.
+- The latest version of ASP.NET Core is ASP.NET Core 7.0, which was released on February 24, 2023.
+- From .NET 5.0, the word "Core" is dropped from its name.
+- So, all frameworks from now on will be named as .NET 6, .NET 7, .NET 8, and so on.

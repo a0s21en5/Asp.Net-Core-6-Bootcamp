@@ -22,3 +22,12 @@
 - Fast Development: Enables fast work over the browsers.
 - Editor choice: You can work not only in Visual Studio but also in Visual Studio Code.
 - Based on Model-View-Controller (MVC) architecture.
+
+
+# What is ASP.NET Core?
+
+- ASP.NET Core is a new version of ASP.NET, developed by Microsoft.
+- It is an open-source framework for developing web applications that can be run on Windows, Mac, or Linux.
+- It has been completely rewritten from scratch and was initially launched as ASP.NET 5 but then was renamed to ASP.NET Core 1.0.
+- ASP.NET Core is a cross-platform, high-performance, open-source framework for building modern, cloud-based, internet-connected applications.
+- It consists of modular components with minimal overhead, allowing you to retain flexibility while constructing your solutions.
